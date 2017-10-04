@@ -1,4 +1,4 @@
-DOCKER_IMAGE = joeblackwaslike/debian-builder:latest
+DOCKER_IMAGE = telephoneorg/debian-builder:latest
 
 .PHONY: build
 
